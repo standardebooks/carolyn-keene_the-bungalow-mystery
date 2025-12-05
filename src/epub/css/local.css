@@ -1,11 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-.sign{
+blockquote p{
 	font-variant: all-small-caps;
 	text-align: center;
-}
-
-.sign > p{
 	text-indent: 0;
 }
