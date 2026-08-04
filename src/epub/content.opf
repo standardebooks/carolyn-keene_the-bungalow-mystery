@@ -38,7 +38,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:abstract>A young amateur detective investigates a new friend’s abusive guardian.</dc:abstract>
+		<meta property="schema:abstract">A young amateur detective investigates a new friend’s abusive guardian.</meta>
 		<dc:description>
 			&lt;p&gt;Young amateur detective Nancy Drew and her friend Helen Corning make a new friend when Laura Pendleton saves them from drowning in a storm. But when Laura runs away from her abusive guardian, can Nancy get to the bottom of what’s happening in a mysterious bungalow Laura’s guardian owns in the woods?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Bungalow Mystery&lt;/i&gt; is the third book in the &lt;a href="https://standardebooks.org/collections/nancy-drew-mystery-stories"&gt;Nancy Drew Mystery Stories&lt;/a&gt;. It was first published in 1930. A revised edition was published in 1960, which changed the plot significantly; this Standard Ebooks edition follows the first edition text.&lt;/p&gt;
